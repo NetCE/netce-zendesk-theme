@@ -1,7 +1,7 @@
 name: Release
 on:
   push:
-    branches: 
+    branches:
       - master
 jobs:
   release:
@@ -9,11 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: zendesk/checkout@v2
+        uses: actions/checkout@v2
         with:
           persist-credentials: false
       - name: Setup Node.js
-        uses: zendesk/setup-node@v1
+        uses: actions/setup-node@v1
         with:
           node-version: 12
       - name: Install dependencies

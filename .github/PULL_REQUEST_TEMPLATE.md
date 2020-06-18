@@ -13,6 +13,6 @@
 - [ ] :arrow_left: changes are compatible with RTL direction
 - [ ] :wheelchair: changes are accessible
 - [ ] :memo: changes are tested in Chrome, Firefox, Safari, Edge, and IE11
-- [ ] :+1: PR is approved by @zendesk/vikings
+- [ ] :+1: PR is approved by @NetCE/netce
 
 <!-- More info about the contribution process can be found at https://github.com/zendesk/copenhagen_theme#contributing -->
