@@ -1,7 +1,7 @@
 {
-  "name": "Copenhagen",
-  "author": "Zendesk",
-  "version": "2.2.4",
+  "name": "NetCE",
+  "author": "NetCE",
+  "version": "0.0.1",
   "api_version": 2,
   "default_locale": "en-us",
   "settings": [
@@ -202,14 +202,14 @@
         {
           "identifier": "logo",
           "type": "file",
-          "description": "logo_description",
-          "label": "logo_label"
+          "description": "NetCE Logo",
+          "label": "NetCE"
         },
         {
           "identifier": "favicon",
           "type": "file",
-          "description": "favicon_description",
-          "label": "favicon_label"
+          "description": "NetCE FavIcon",
+          "label": "NetCE"
         }
       ]
     },
