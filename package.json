@@ -2,7 +2,8 @@
   "name": "netce-zendesk-theme",
   "version": "0.0.1",
   "repository": "git@github.com:NetCE/netce-zendesk-theme.git",
-  "license" : "SEE LICENSE IN LICENSE.txt",
+  "license": "UNLICENSED",
+  "private": true,
   "dependencies": {
     "node-fetch": "^2.6.0"
   },
